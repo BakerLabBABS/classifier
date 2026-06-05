@@ -1,8 +1,7 @@
 """
 Build a figure showing the BayesTraits posterior distributions of T6SS transition rates in motile and non-motile lineages.
 
-Half-page target size: ~130 mm × 90 mm
-Font: Helvetica throughout
+Half-page size: ~130 mm × 90 mm
 
 Each panel contains two rows:
   A  T6SS gain rate. Top: q34 (motile). Bottom: q12 (non-motile).
