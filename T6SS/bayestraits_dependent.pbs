@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#PBS -l select=1:ncpus=8:mem=32gb
+#PBS -l walltime=5:00:00
+#PBS -m ae
+#PBS -j oe
+#PBS -N bayestraits_dependent_fliC-T6SS.pbs
+#PBS -o Bayestraits
+
+
+Bayestraits="/srv/scratch/baker/Jamiema/Tools/BayesTraitsV4.1.2-Linux/"
+cd /srv/scratch/baker/Jamiema/Type6_secretion/New_HMMMER_COG/TOTAL/Heatmap/Bayestraits || exit
+
+"$Bayestraits"/BayesTraitsV4 4125_pruned_tree_nexus.txt 4125_metadata_for_bayestraits.txt < 4125_dependent_parameters_5M.txt
