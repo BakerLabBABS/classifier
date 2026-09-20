@@ -1,0 +1,21 @@
+# Load library
+library(ape)
+
+# Read the tree 
+tree <- read.nexus("1712_pruned_tree.nexus")
+
+# Read the list of species to KEEP
+keep_species <- readLines("tips_to_keep.txt")
+
+# Identify tips NOT in the keep list (these will be pruned)
+tips_to_prune <- setdiff(tree$tip.label, keep_species)
+
+# Prune unwanted tips
+pruned_tree <- drop.tip(tree, tips_to_prune)
+
+# Plot pruned tree
+plot(pruned_tree, cex=0.6)
+
+# Save pruned tree as NEXUS
+write.nexus(pruned_tree, file="pruned_tree_724.nex")
+
