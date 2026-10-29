@@ -1,0 +1,56 @@
+KO identifier	Gene	Functional category	Reference gene group	Included in architecture analysis	Reason for inclusion / exclusion
+K02400	flhA	Flagellar export / assembly	flhBAE	Yes	Included in the selected flhBAE reference gene group for gene-presence and architecture comparisons.
+K02401	flhB	Flagellar export / assembly	flhBAE	Yes	Included in the selected flhBAE reference gene group for gene-presence and architecture comparisons.
+K03516	flhE	Flagellar-associated accessory	flhBAE	Yes	Included in the selected flhBAE reference gene group for gene-presence and architecture comparisons.
+K02411	fliH	Flagellar export / assembly	fliFGHIJK	Yes	Included in the selected fliFGHIJK reference gene group for gene-presence and architecture comparisons.
+K02412	fliI	Flagellar export / assembly	fliFGHIJK	Yes	Included in the selected fliFGHIJK reference gene group for gene-presence and architecture comparisons.
+K02413	fliJ	Flagellar export / assembly	fliFGHIJK	Yes	Included in the selected fliFGHIJK reference gene group for gene-presence and architecture comparisons.
+K02418	fliO	Flagellar export / assembly	fliLMNOPQR	Yes	Included in the selected fliLMNOPQR reference gene group for gene-presence and architecture comparisons.
+K02419	fliP	Flagellar export / assembly	fliLMNOPQR	Yes	Included in the selected fliLMNOPQR reference gene group for gene-presence and architecture comparisons.
+K02420	fliQ	Flagellar export / assembly	fliLMNOPQR	Yes	Included in the selected fliLMNOPQR reference gene group for gene-presence and architecture comparisons.
+K02421	fliR	Flagellar export / assembly	fliLMNOPQR	Yes	Included in the selected fliLMNOPQR reference gene group for gene-presence and architecture comparisons.
+K02410	fliG	Basal body / C-ring / switch	fliFGHIJK	Yes	Included in the selected fliFGHIJK reference gene group for gene-presence and architecture comparisons.
+K02416	fliM	Basal body / C-ring / switch	fliLMNOPQR	Yes	Included in the selected fliLMNOPQR reference gene group for gene-presence and architecture comparisons.
+K02417	fliN	Basal body / C-ring / switch	fliLMNOPQR	Yes	Included in the selected fliLMNOPQR reference gene group for gene-presence and architecture comparisons.
+K24344	flgO	Basal body / rod / hook / ring	—	No	Accessory basal-body component; outside the 12 selected reference groups.
+K09860	flgP	Basal body / rod / hook / ring	—	No	Accessory basal-body component; outside the 12 selected reference groups.
+K24346	flgQ	Basal body / rod / hook / ring	—	No	Accessory flagellar component; outside the 12 selected reference groups.
+K24343	flgT	Basal body / rod / hook / ring	—	No	Accessory basal-body component; outside the 12 selected reference groups.
+K21217	motX	Motor / stator / motility accessory	—	No	Sodium-driven motor accessory component; not part of the motAB reference group.
+K21218	motY	Motor / stator / motility accessory	—	No	Sodium-driven motor accessory component; not part of the motAB reference group.
+K02386	flgA	Basal body / rod / hook / ring	flgAMN	Yes	Included in the selected flgAMN reference gene group for gene-presence and architecture comparisons.
+K02393	flgH	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02394	flgI	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02409	fliF	Basal body / C-ring / switch	fliFGHIJK	Yes	Included in the selected fliFGHIJK reference gene group for gene-presence and architecture comparisons.
+K02415	fliL	Motor-associated assembly	fliLMNOPQR	Yes	Included in the selected fliLMNOPQR reference gene group for gene-presence and architecture comparisons.
+K02387	flgB	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02388	flgC	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02389	flgD	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02390	flgE	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02391	flgF	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02392	flgG	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02395	flgJ	Basal body / rod / hook / ring	flgBCDEFGHIJ	Yes	Included in the selected flgBCDEFGHIJ reference gene group for gene-presence and architecture comparisons.
+K02396	flgK	Hook–filament junction / hook-length control	flgKL	Yes	Included in the selected flgKL reference gene group for gene-presence and architecture comparisons.
+K02397	flgL	Hook–filament junction / hook-length control	flgKL	Yes	Included in the selected flgKL reference gene group for gene-presence and architecture comparisons.
+K02399	flgN	Filament / chaperone / assembly	flgAMN	Yes	Included in the selected flgAMN reference gene group for gene-presence and architecture comparisons.
+K02408	fliE	Basal body / rod / hook / ring	fliE	Yes	Included in the selected fliE reference gene group for gene-presence and architecture comparisons.
+K02414	fliK	Hook–filament junction / hook-length control	fliFGHIJK	Yes	Included in the selected fliFGHIJK reference gene group for gene-presence and architecture comparisons.
+K02406	fliC	Filament / chaperone / assembly	fliC	Yes	Included in the selected fliC reference gene group for gene-presence and architecture comparisons.
+K02407	fliD	Filament / chaperone / assembly	fliDST	Yes	Included in the selected fliDST reference gene group for gene-presence and architecture comparisons.
+K02422	fliS	Filament / chaperone / assembly	fliDST	Yes	Included in the selected fliDST reference gene group for gene-presence and architecture comparisons.
+K02423	fliT	Filament / chaperone / assembly	fliDST	Yes	Included in the selected fliDST reference gene group for gene-presence and architecture comparisons.
+K02402	flhC	Transcriptional regulation / sigma factor	flhDC	Yes	Included in the selected flhDC reference gene group for gene-presence and architecture comparisons.
+K02403	flhD	Transcriptional regulation / sigma factor	flhDC	Yes	Included in the selected flhDC reference gene group for gene-presence and architecture comparisons.
+K02405	fliA	Transcriptional regulation / sigma factor	fliAZ	Yes	Included in the selected fliAZ reference gene group for gene-presence and architecture comparisons.
+K02556	motA	Motor / stator / motility accessory	motAB	Yes	Included in the selected motAB reference gene group for gene-presence and architecture comparisons.
+K02557	motB	Motor / stator / motility accessory	motAB	Yes	Included in the selected motAB reference gene group for gene-presence and architecture comparisons.
+K10564	motC	Motor / stator / motility accessory	—	No	Alternative stator component; not part of the motAB reference group.
+K10565	motD	Motor / stator / motility accessory	—	No	Alternative stator component; not part of the motAB reference group.
+K02398	flgM	Transcriptional regulation / sigma factor	flgAMN	Yes	Included in the selected flgAMN reference gene group for gene-presence and architecture comparisons.
+K02424	fliY	Basal body / C-ring / switch	—	No	Additional switch-associated protein; not included in the selected fliLMNOPQR reference group.
+K02425	fliZ	Transcriptional regulation / sigma factor	fliAZ	Yes	Included in the selected fliAZ reference gene group for gene-presence and architecture comparisons.
+K10941	flrA	Transcriptional regulation / sigma factor	—	No	Lineage-associated flagellar transcriptional regulator; outside the selected reference groups.
+K10943	flrC	Transcriptional regulation / sigma factor	—	No	Lineage-associated flagellar transcriptional regulator; outside the selected reference groups.
+K03088	rpoD	Transcriptional regulation / sigma factor	—	No	General sigma factor; not a flagellum-specific gene-group marker.
+K03092	rpoN	Transcriptional regulation / sigma factor	—	No	Sigma-54 factor with broader cellular roles; not a flagellum-specific gene-group marker.
+

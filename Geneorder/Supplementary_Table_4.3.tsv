@@ -1,0 +1,7 @@
+Status	Filtering_Reason	Unique_Proteins
+excluded	conflicting_gene_names	7
+excluded	multiple_gene_names	163
+excluded	no_gene_specific_support	888
+retained	multi_KO_resolved	651
+retained	single_KO	70140
+
