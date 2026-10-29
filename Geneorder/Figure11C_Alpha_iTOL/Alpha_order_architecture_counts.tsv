@@ -1,0 +1,101 @@
+Order	N	Category	n	Percent
+Acetobacterales	17	Reference-equivalent	0	0.00
+Acetobacterales	17	Complete, alternative	0	0.00
+Acetobacterales	17	Complete, separated	0	0.00
+Acetobacterales	17	Partial	15	88.24
+Acetobacterales	17	Not detected	2	11.76
+Azospirillales	8	Reference-equivalent	0	0.00
+Azospirillales	8	Complete, alternative	0	0.00
+Azospirillales	8	Complete, separated	0	0.00
+Azospirillales	8	Partial	8	100.00
+Azospirillales	8	Not detected	0	0.00
+Caedimonadales	1	Reference-equivalent	0	0.00
+Caedimonadales	1	Complete, alternative	0	0.00
+Caedimonadales	1	Complete, separated	0	0.00
+Caedimonadales	1	Partial	1	100.00
+Caedimonadales	1	Not detected	0	0.00
+Caulobacterales	28	Reference-equivalent	0	0.00
+Caulobacterales	28	Complete, alternative	0	0.00
+Caulobacterales	28	Complete, separated	2	7.14
+Caulobacterales	28	Partial	26	92.86
+Caulobacterales	28	Not detected	0	0.00
+Dongiales	2	Reference-equivalent	0	0.00
+Dongiales	2	Complete, alternative	0	0.00
+Dongiales	2	Complete, separated	0	0.00
+Dongiales	2	Partial	2	100.00
+Dongiales	2	Not detected	0	0.00
+Ferrovibrionales	1	Reference-equivalent	0	0.00
+Ferrovibrionales	1	Complete, alternative	0	0.00
+Ferrovibrionales	1	Complete, separated	0	0.00
+Ferrovibrionales	1	Partial	1	100.00
+Ferrovibrionales	1	Not detected	0	0.00
+Geminicoccales	1	Reference-equivalent	0	0.00
+Geminicoccales	1	Complete, alternative	0	0.00
+Geminicoccales	1	Complete, separated	0	0.00
+Geminicoccales	1	Partial	1	100.00
+Geminicoccales	1	Not detected	0	0.00
+Paracaedibacterales	1	Reference-equivalent	0	0.00
+Paracaedibacterales	1	Complete, alternative	0	0.00
+Paracaedibacterales	1	Complete, separated	0	0.00
+Paracaedibacterales	1	Partial	1	100.00
+Paracaedibacterales	1	Not detected	0	0.00
+Puniceispirillales	1	Reference-equivalent	0	0.00
+Puniceispirillales	1	Complete, alternative	0	0.00
+Puniceispirillales	1	Complete, separated	0	0.00
+Puniceispirillales	1	Partial	1	100.00
+Puniceispirillales	1	Not detected	0	0.00
+Radicibacterales	1	Reference-equivalent	0	0.00
+Radicibacterales	1	Complete, alternative	0	0.00
+Radicibacterales	1	Complete, separated	0	0.00
+Radicibacterales	1	Partial	1	100.00
+Radicibacterales	1	Not detected	0	0.00
+Rhizobiales	152	Reference-equivalent	0	0.00
+Rhizobiales	152	Complete, alternative	0	0.00
+Rhizobiales	152	Complete, separated	0	0.00
+Rhizobiales	152	Partial	151	99.34
+Rhizobiales	152	Not detected	1	0.66
+Rhodobacterales	101	Reference-equivalent	0	0.00
+Rhodobacterales	101	Complete, alternative	0	0.00
+Rhodobacterales	101	Complete, separated	0	0.00
+Rhodobacterales	101	Partial	99	98.02
+Rhodobacterales	101	Not detected	2	1.98
+Rhodospirillales	5	Reference-equivalent	0	0.00
+Rhodospirillales	5	Complete, alternative	0	0.00
+Rhodospirillales	5	Complete, separated	0	0.00
+Rhodospirillales	5	Partial	5	100.00
+Rhodospirillales	5	Not detected	0	0.00
+Rickettsiales	2	Reference-equivalent	0	0.00
+Rickettsiales	2	Complete, alternative	0	0.00
+Rickettsiales	2	Complete, separated	0	0.00
+Rickettsiales	2	Partial	2	100.00
+Rickettsiales	2	Not detected	0	0.00
+Sneathiellales	2	Reference-equivalent	0	0.00
+Sneathiellales	2	Complete, alternative	0	0.00
+Sneathiellales	2	Complete, separated	0	0.00
+Sneathiellales	2	Partial	2	100.00
+Sneathiellales	2	Not detected	0	0.00
+Sphingomonadales	56	Reference-equivalent	0	0.00
+Sphingomonadales	56	Complete, alternative	0	0.00
+Sphingomonadales	56	Complete, separated	0	0.00
+Sphingomonadales	56	Partial	53	94.64
+Sphingomonadales	56	Not detected	3	5.36
+Thalassobaculales	1	Reference-equivalent	0	0.00
+Thalassobaculales	1	Complete, alternative	0	0.00
+Thalassobaculales	1	Complete, separated	0	0.00
+Thalassobaculales	1	Partial	1	100.00
+Thalassobaculales	1	Not detected	0	0.00
+Tistrellales	2	Reference-equivalent	0	0.00
+Tistrellales	2	Complete, alternative	0	0.00
+Tistrellales	2	Complete, separated	0	0.00
+Tistrellales	2	Partial	2	100.00
+Tistrellales	2	Not detected	0	0.00
+UBA6184	1	Reference-equivalent	0	0.00
+UBA6184	1	Complete, alternative	0	0.00
+UBA6184	1	Complete, separated	0	0.00
+UBA6184	1	Partial	1	100.00
+UBA6184	1	Not detected	0	0.00
+UBA8366	1	Reference-equivalent	0	0.00
+UBA8366	1	Complete, alternative	0	0.00
+UBA8366	1	Complete, separated	0	0.00
+UBA8366	1	Partial	1	100.00
+UBA8366	1	Not detected	0	0.00
